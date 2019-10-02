@@ -1,4 +1,4 @@
-# Hellow Aimrashers
+# Hellow Airmash
 
 Hi Airmashsters
 
