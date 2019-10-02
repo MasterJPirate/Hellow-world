@@ -12,7 +12,7 @@ The two teams will fight against each other till one of the teams are defeated.
 after there done fighting the server will give an amount of time (time(1minute) before the new game starts and they will respawn just like when a new ctf game is starting, some that were on blue team will respawn in red team, also for red". respawn randomly  like on ctf".
 (Respawn) When game is starting all players from both teams will have 25 amount of upgrades
 Ship: console.log (Predator, Goliath, Copter, Tornado) But no Prowler
-game will start with predator and if you want to play with another ship you will be able to change it or respawn 1 time only after changing your ship you'll not allowed to respawned again, and if you want to spectate after going spectate you wont allowed to respawn on the middle of the game battle.
+game will start with predator and if you want to play with another ship you will be able to change it or respawn 1 time only after changing your ship you'll not allowed to respawn again, and if you want to spectate after going spectate you wont allowed to respawn on the middle of the game battle.
 After dying: No respawn only spactate players left on the team you were.
 And players will not be allowed to go out of greenland and if a player go out the No trespassing line will be the ocean. if you leave the sand and the mountains and go to the ocean you will automatically go spec till another game round game starts.
 And if a player that came from ffa or just login into the server (GB) the player will have to wait till a new round game starts.
